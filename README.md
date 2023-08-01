@@ -23,4 +23,6 @@ I'm a passionate frontend developer with a strong foundation in several language
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthboyy&layout=compact)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealthboyy&hide_progress=true)
